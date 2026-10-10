@@ -1,0 +1,7 @@
+README.md
+setup.py
+MiSeptimoRepo/__init__.py
+MiSeptimoRepo.egg-info/PKG-INFO
+MiSeptimoRepo.egg-info/SOURCES.txt
+MiSeptimoRepo.egg-info/dependency_links.txt
+MiSeptimoRepo.egg-info/top_level.txt
